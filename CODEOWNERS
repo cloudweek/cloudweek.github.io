@@ -1,0 +1,5 @@
+# At least the documentation to should be able to add docs!
+docs/* @cloudweek/documentation
+
+# Workflows can only be update by Rob and Hindrik
+.github/workflows @rajbos @cloudcosmonaut
